@@ -15,7 +15,7 @@ A passionate frontend developer from Bangladesh with a strong foundation in Comp
 ## 📍 Location & Contact
 - 📍 Dhaka, Bangladesh
 - 📧 siammahmud66@gmail.com
-- 📱 [+8801620643588]
+- 📱 +8801620643588
 - ⚡ Fun fact: I enjoy cooking
 
 ## 💻 Tech Stack
