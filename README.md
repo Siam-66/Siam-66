@@ -8,15 +8,14 @@
 A passionate frontend developer from Bangladesh with a strong foundation in Computer Science and Engineering. I specialize in creating responsive and user-friendly web applications using modern technologies. My goal is to continually learn and advance in the field of web development while contributing to innovative projects.
 
 ## 🔭 Current Activities
-- 🌱 Exploring Next.js and advanced React patterns
+- 🌱 Exploring Next.js and Typescript
 - 💻 Working on building a full-stack MERN application
 - 📚 Learning advanced state management techniques
-- 🤝 Contributing to open-source projects
 
 ## 📍 Location & Contact
 - 📍 Dhaka, Bangladesh
 - 📧 siammahmud66@gmail.com
-- 📱 [Your contact number]
+- 📱 [+8801620643588]
 - ⚡ Fun fact: I enjoy cooking
 
 ## 💻 Tech Stack
