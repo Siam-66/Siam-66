@@ -8,7 +8,7 @@
 A passionate frontend developer from Bangladesh with a strong foundation in Computer Science and Engineering. I specialize in creating responsive and user-friendly web applications using modern technologies. My goal is to continually learn and advance in the field of web development while contributing to innovative projects.
 
 ## My Portfolio
-[**My Portfolio**](https://siammahmud-portfolio.netlify.app/)
+✨[**My Portfolio**](https://siammahmud-portfolio.netlify.app/)✨
 
 ## 🔭 Current Activities
 - 🌱 Exploring Next.js and Typescript
